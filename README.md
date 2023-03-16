@@ -9,61 +9,61 @@ This repository contains everything you need to become proficient in PyTorch
 
 # PyTorch Basics
 
-What is PyTorch?
+[What is PyTorch?](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Install PyTorch
+[Install PyTorch](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-PyTorch Packages
+[PyTorch Packages](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Basics of PyTorch
+[Basics of PyTorch](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-PyTorch vs. TensorFlow
+[PyTorch vs. TensorFlow](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Loading Data
+[Loading Data](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Linear Regression
+[Linear Regression](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Convolutional Neural Network
+[Convolutional Neural Network](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Recurrent Neural Network
+[Recurrent Neural Network](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Datasets
+[Datasets](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
 # Convents
 
-Introduction to Convents
+[Introduction to Convents](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Training a Convent from Scratch
+[Training a Convent from Scratch](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Feature Extraction in Convents
+[Feature Extraction in Convents](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Visualization
+[Visualization](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Sequence Processing
+[Sequence Processing](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Word Embedding
+[Word Embedding](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Recursive Neural Networks
+[Recursive Neural Networks](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
 # Tensors
 
-Introduction to Tensors
+[Introduction to Tensors](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-1D Tensor
+[1D Tensor](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Vector Operation
+[Vector Operation](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-2D Tensor
+[2D Tensor](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Gradient with PyTorch
+[Gradient with PyTorch](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
 # Linear Regression
 
-Introduction
+[Introduction](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Gradient Descent
+[Gradient Descent](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Mean Squared
+[Mean Squared](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
 Custom Module
 
