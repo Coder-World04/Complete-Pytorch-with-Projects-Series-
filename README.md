@@ -65,7 +65,7 @@ This repository contains everything you need to become proficient in PyTorch
 
 [Mean Squared](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Custom Module
+[Custom Module]()
 
 Loss Function
 
