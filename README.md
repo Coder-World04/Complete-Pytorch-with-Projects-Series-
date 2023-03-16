@@ -65,45 +65,45 @@ This repository contains everything you need to become proficient in PyTorch
 
 [Mean Squared](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-[Custom Module]()
+[Custom Module](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Loss Function
+[Loss Function](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
 # Perceptron
 
-Introduction to Perceptron
+[Introduction to Perceptron](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Create Dataset
+[Create Dataset](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Model Setup
+[Model Setup](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Training
+[Training](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Testing
+[Testing](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
 # Deep Neural Network
 
-Architecture of DNN
+[Architecture of DNN](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Implementation of DNN
+[Implementation of DNN](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Testing of DNN model
+[Testing of DNN model](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Feed Forward Process
+[Feed Forward Process](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Backpropagation Process
+[Backpropagation Process](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
 # CNN
 
-CNN Introduction
+[CNN Introduction](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-CNN Implementation
+[CNN Implementation](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Training of CNN
+[Training of CNN](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Validation of CNN
+[Validation of CNN](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
-Testing of CNN
+[Testing of CNN](https://medium.com/coders-mojo/implemented-pytorch-projects-f434f6faed4d?sk=baaae01f83ed39a9517d8ad58d8d9606)
 
 # PyTorch Projects (40)
 
