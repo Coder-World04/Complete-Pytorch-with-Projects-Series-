@@ -4,6 +4,8 @@ This repository contains everything you need to become proficient in PyTorch
 
 ![pytorch-e1576624094357](https://user-images.githubusercontent.com/104568275/210083990-77b76bbc-ff30-492d-a9e3-20eb9d332a65.png)
 
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
+
 
 # Start here : [30 days of Pytorch with projects Series](https://medium.com/coders-mojo/30-days-of-pytorch-with-projects-series-737941e5aa4f?sk=d0ead140034be9f1fff27d059b525221)
 
